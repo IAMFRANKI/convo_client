@@ -11,6 +11,8 @@ function HomePage() {
 
   return (
     <div className={`container ${theme}-theme`}>
+      {/* <Link to="/categories">Go to Categories</Link>
+      <Link to="/profile">Go to Profile</Link> */}
       <div className="navbar">
         <div className="profile-icon">
           <Link to="/profile">
