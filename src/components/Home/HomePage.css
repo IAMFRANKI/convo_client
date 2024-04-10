@@ -4,7 +4,7 @@
     align-items: center;
   }
   
-  .navbar {
+  /* .navbar {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -29,7 +29,7 @@
     color: #fff;
     text-decoration: none;
     margin-bottom: 10px;
-  }
+  } */
   
   .content {
     margin-top: 20px;

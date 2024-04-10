@@ -19,14 +19,14 @@ function HomePage() {
             <img src="profile-icon.png" alt="Profile" />
           </Link>
         </div>
-        <div className="nav-buttons">
+        {/* <div className="nav-buttons">
           <Link to="/" className="nav-button">
             Home
           </Link>
           <Link to="/categories" className="nav-button">
             Categories
           </Link>
-        </div>
+        </div> */}
       </div>
       <div className="content">
         <div className="theme-button">
